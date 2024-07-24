@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\bin\Debug\net8.0\ThiThucHanh.exe
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\bin\Debug\net8.0\ThiThucHanh.deps.json
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\bin\Debug\net8.0\ThiThucHanh.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\bin\Debug\net8.0\ThiThucHanh.dll
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\bin\Debug\net8.0\ThiThucHanh.pdb
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ThiThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ThiThucHanh.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ThiThucHanh.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ThiThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ThiThucHanh.dll
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\refint\ThiThucHanh.dll
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ThiThucHanh.pdb
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ThiThucHanh.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ThiThucHanh\ThiThucHanh\obj\Debug\net8.0\ref\ThiThucHanh.dll
